@@ -1,2 +1,4 @@
-# elec-design
+elec-design
+-----------
+
 Repository for the Electrical Design course.
