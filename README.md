@@ -1,4 +1,4 @@
-# ece-ntua-electrical-design
+# electrical-design
 
 Semester Project and Lab Assignments for the [Electrical Design](https://www.ece.ntua.gr/en/undergraduate/courses/3035) course, during the 7th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
